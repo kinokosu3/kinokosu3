@@ -1,4 +1,9 @@
 ## Don‘t fear suffering and dark.
+
+## Code for fun.
+
+## Work life balance.
+
 <h3 align="left">Languages</h3>
 <p align="left">
     <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=Go&logoColor=fff"/>
